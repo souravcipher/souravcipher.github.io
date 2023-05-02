@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-I have joined the OSPOlogy project at TODO Group as an open source maintainer. [Read more](https://todogroup.org/blog/ospology-maintainers/) :sparkles:
+I joined the OSPOlogy project at TODO Group as an open-source maintainer. [Read more](https://todogroup.org/blog/ospology-maintainers/) :sparkles:

@@ -19,8 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm an open source program manager, maintainer, and community builder. Currently leading the OpenPrivacyTech Initiative, a nonprofit organization aimed at democratizing privacy tech and privacy-enhancing technologies, and maintaining OSPOlogy project at TODO Group. I have been an avid open source enthusiast and advocate of the open source movement since the beginning of his tech journey. I'm passionate about AI, data science, and privacy-enhancing technologies. These days I contribute to TODO Group and ISPO WG at InnerSource Commons.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously I led open source communities and managed mentorship programs like google summer of code and google season of docs. I have also mentored at google code-in for the TensorFlow organization and mentored thousands of enthusiasts to start their open source and private AI journey.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I led the Private AI mentorship program at [OpenMined](https://openmined.org/) and was a education team member that launched the [Private AI Series](https://courses.openmined.org/) in collaboration with PyTorch, Facebook AI, the University of Oxford’s Centre for the Governance of AI at the Future of Humanity Institute, and the United Nations Global Working Group on Big Data. 

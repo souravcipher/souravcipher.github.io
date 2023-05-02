@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm an open source program manager, maintainer, and community builder. Currently leading the OpenPrivacyTech Initiative, a nonprofit organization aimed at democratizing privacy tech and privacy-enhancing technologies, and maintaining OSPOlogy project at TODO Group. I have been an avid open source enthusiast and advocate of the open source movement since the beginning of his tech journey. I'm passionate about AI, data science, and privacy-enhancing technologies. These days I contribute to TODO Group and ISPO WG at InnerSource Commons.
+Hello there! I'm an open source program manager, maintainer, and community builder. Currently leading the OpenPrivacyTech Initiative, a nonprofit organization aimed at democratizing privacy tech and privacy-enhancing technologies, and maintaining OSPOlogy project at TODO Group. I have been an avid open source enthusiast and advocate of the open source movement since the beginning of his tech journey. I'm passionate about AI, data science, and privacy-enhancing technologies. These days I contribute to TODO Group and ISPO WG at InnerSource Commons.
 
 Previously I led open source communities and managed mentorship programs like google summer of code and google season of docs. I have also mentored at google code-in for the TensorFlow organization and mentored thousands of enthusiasts to start their open source and private AI journey.
 

@@ -23,4 +23,4 @@ I'm an open source program manager, maintainer, and community builder. Currently
 
 Previously I led open source communities and managed mentorship programs like google summer of code and google season of docs. I have also mentored at google code-in for the TensorFlow organization and mentored thousands of enthusiasts to start their open source and private AI journey.
 
-I led the Private AI mentorship program at [OpenMined](https://openmined.org/) and was a education team member that launched the [Private AI Series](https://courses.openmined.org/) in collaboration with PyTorch, Facebook AI, the University of Oxford’s Centre for the Governance of AI at the Future of Humanity Institute, and the United Nations Global Working Group on Big Data. 
+I led the Private AI mentorship program at [OpenMined](https://openmined.org/) and was a education team member that launched the [Private AI Series](https://courses.openmined.org/) in collaboration with PyTorch, Facebook AI, the University of Oxford’s Centre for the Governance of AI at the Future of Humanity Institute, and the United Nations Global Working Group on Big Data.  

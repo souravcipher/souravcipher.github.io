@@ -19,11 +19,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi there!  My name is Sourav, welcome to my website. <img src="https://emojis.slackmojis.com/emojis/images/1641578819/51091/pikachu_wave.gif" width="25" height="25">
+Hi there! My name is Sourav. Welcome to my website. <img src="https://emojis.slackmojis.com/emojis/images/1641578819/51091/pikachu_wave.gif" width="25" height="25">
 
+I work on open source program management and lead the [OpenPrivacyTech Initiative](https://github.com/openprivacytech), where I work on democratizing privacy-enhancing technologies. I'm also a maintainer at [TODO Group](https://todogroup.org/) where I maintain the [OSPOLOGY](https://github.com/todogroup/ospology) project. Previously, I worked at a deep tech company and led their open source programs and communities.
 
-I'm an open source program manager, maintainer, and community builder. Currently leading the OpenPrivacyTech Initiative, a nonprofit organization aimed at democratizing privacy tech and privacy-enhancing technologies, and maintaining OSPOlogy project at TODO Group. I have been an avid open source enthusiast and advocate of the open source movement since the beginning of his tech journey. I'm passionate about AI, data science, and privacy-enhancing technologies. These days I contribute to TODO Group and ISPO WG at InnerSource Commons.
+As a mentor, I have guided thousands of awesome people to reach their goals in learning private AI and open source. My passion for mentoring led me to work in leadership roles such as mentorship team lead and technical mentorship program lead, where I managed and worked with fantastic team members. I have had a great season managing [Google Summer of Code](https://summerofcode.withgoogle.com/archive/2021/organizations/5769029704220672) and [Google Season of Docs](https://developers.google.com/season-of-docs/docs/2022/participants).
 
-Previously I led open source communities and managed mentorship programs like google summer of code and google season of docs. I have also mentored at google code-in for the TensorFlow organization and mentored thousands of enthusiasts to start their open source and private AI journey.
+I led the Private AI mentorship program at [OpenMined](https://openmined.org/), that launched the [Private AI Series](https://courses.openmined.org/) in collaboration with PyTorch, Facebook AI, the University of Oxford’s Centre for the Governance of AI at the Future of Humanity Institute, and the United Nations Global Working Group on Big Data.
 
-I led the Private AI mentorship program at [OpenMined](https://openmined.org/) and was a education team member that launched the [Private AI Series](https://courses.openmined.org/) in collaboration with PyTorch, Facebook AI, the University of Oxford’s Centre for the Governance of AI at the Future of Humanity Institute, and the United Nations Global Working Group on Big Data.  
+Apart from work and studies, I enjoy reading books (a bibliophile) and also love listening to music. Recently I started traveling as a backpacker, and I found it an exciting way to explore new places and meet interesting people.

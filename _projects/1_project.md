@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
+title: OpenPrivacyTech
 description: a project with a background image
-img: assets/img/12.jpg
+redirect: https://github.com/openprivacytech
+img: assets/img/openprivacytech_logo.png
 importance: 1
 category: work
 ---

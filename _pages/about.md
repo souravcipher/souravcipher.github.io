@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi there!  My name is Sourav, welcome to my website. <img src="https://emojis.slackmojis.com/emojis/images/1641578819/51091/pikachu_wave.gif" width="20" height="20">
+Hi there!  My name is Sourav, welcome to my website. <img src="https://emojis.slackmojis.com/emojis/images/1641578819/51091/pikachu_wave.gif" width="25" height="25">
 
 
 I'm an open source program manager, maintainer, and community builder. Currently leading the OpenPrivacyTech Initiative, a nonprofit organization aimed at democratizing privacy tech and privacy-enhancing technologies, and maintaining OSPOlogy project at TODO Group. I have been an avid open source enthusiast and advocate of the open source movement since the beginning of his tech journey. I'm passionate about AI, data science, and privacy-enhancing technologies. These days I contribute to TODO Group and ISPO WG at InnerSource Commons.

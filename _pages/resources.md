@@ -9,13 +9,7 @@ nav_order: 5
 
 // *This page is being updated!!*
 
-#### Python
-
-- [python.org](https://docs.python.org/3/)
-- [learnpython.org](https://www.learnpython.org/)
-- [fullstackpython.com](https://www.fullstackpython.com/)
-
-#### AI/ML/DL
+#### AI
 
 - [AI For Everyone (deeplearning.ai)](https://www.coursera.org/learn/ai-for-everyone) 
 - [Deep Learning (NYU-DLSP21)](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
@@ -54,9 +48,4 @@ nav_order: 5
 #### Learning
 
 - [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn/) - [[Certificate](https://www.coursera.org/account/accomplishments/certificate/E79VGUCDNV44)] [[blog](https://souravcipher.github.io/blog/2022/learning-how-learn/)]
-
-#### Project Management
-
-- [Google Project Management: Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management) 
-
 

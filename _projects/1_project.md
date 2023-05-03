@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OpenPrivacyTech
-description: Creator and Lead Maintainer
+description: Creator and Maintainer
 redirect: https://github.com/openprivacytech
 img: assets/img/openprivacytech_logo.png
 importance: 1

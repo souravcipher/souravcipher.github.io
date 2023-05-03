@@ -38,14 +38,7 @@ nav_order: 5
 
 - [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) by [Srinivasan Keshav](https://svr-sk818-web.cl.cam.ac.uk/keshav/wiki/index.php/Main_Page)
 
-#### Community and DevRel
-
-- [Community Management Foundations (Community Club)](https://www.community.club/c-school/foundations) 
-- [The Community MBA (CMX)](https://training.cmxhub.com/)
-- [The Community-Led Event Program Playbook (CMX)](https://training.cmxhub.com/) 
-- [Managing Developer Communities: An Introduction to DevRel](https://learn.community.club/course/introduction-devrel)
-
 #### Learning
 
-- [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn/) - [[Certificate](https://www.coursera.org/account/accomplishments/certificate/E79VGUCDNV44)] [[blog](https://souravcipher.github.io/blog/2022/learning-how-learn/)]
+- [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn/) - [[Certificate](https://www.coursera.org/account/accomplishments/certificate/E79VGUCDNV44)] [[blog](https://souravcipher.github.io/blog/2022/learning-how-learn/)
 

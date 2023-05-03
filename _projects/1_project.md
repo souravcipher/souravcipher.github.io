@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OpenPrivacyTech
-description: a project with a background image
+description: Creator and Lead Maintainer
 redirect: https://github.com/openprivacytech
 img: assets/img/openprivacytech_logo.png
 importance: 1

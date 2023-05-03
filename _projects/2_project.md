@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: OSPOLOGY
+description: Maintainer
+img: assets/img/ospology.png
+redirect: https://github.com/todogroup/ospology
 importance: 2
 category: work
 ---

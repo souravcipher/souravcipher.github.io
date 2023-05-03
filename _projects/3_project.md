@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Private AI Series
+description: Led Mentorship Programs
+img: assets/img/openmined_logo.png
+redirect: https://courses.openmined.org
 importance: 3
 category: work
 ---

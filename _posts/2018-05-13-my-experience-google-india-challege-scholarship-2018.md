@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Experience : Google India Challenge Scholarship 2018
+title: My Experience :Google India Challenge Scholarship 2018
 date: 2018-05-13 11:12:00-0400
 description: 
 tags: formatting math

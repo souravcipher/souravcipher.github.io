@@ -40,5 +40,4 @@ nav_order: 5
 
 #### Learning
 
-- [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn/) - [[Certificate](https://www.coursera.org/account/accomplishments/certificate/E79VGUCDNV44)] [[blog](https://souravcipher.github.io/blog/2022/learning-how-learn/)
-
+- [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn/)

@@ -27,4 +27,4 @@ As a mentor, I have guided thousands of awesome people to reach their goals in l
 
 I led the Private AI mentorship program at [OpenMined](https://openmined.org/), that launched the [Private AI Series](https://courses.openmined.org/) in collaboration with PyTorch, Facebook AI, the University of Oxford’s Centre for the Governance of AI at the Future of Humanity Institute, and the United Nations Global Working Group on Big Data.
 
-Apart from work, I enjoy reading books and love listening to music. Recently I started traveling as a backpacker, and I found it an exciting way to explore new places and meet interesting people.
+Apart from work, I enjoy reading books, listening to music and sometimes watching movies. Recently I started traveling as a backpacker, and I found it an exciting way to explore new places and meet interesting people.

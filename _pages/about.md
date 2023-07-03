@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hi there! My name is Sourav. Welcome to my website. 
 
-I work on open source program management and lead the [OpenPrivacyTech Initiative](https://github.com/openprivacytech), where I work on democratizing privacy-enhancing technologies. I'm also a maintainer at [TODO Group](https://todogroup.org/) and I maintain the [OSPOLOGY](https://github.com/todogroup/ospology) project. Previously, I worked at a deep tech company and led their open source programs and communities.
+I work on open source sustainability and program management and lead the [OpenPrivacyTech Initiative](https://github.com/openprivacytech), where I work on democratizing privacy-enhancing technologies. I'm also a maintainer at [TODO Group](https://todogroup.org/) and I maintain the [OSPOLOGY](https://github.com/todogroup/ospology) project. Previously, I worked at a deep tech company and led their open source programs and communities.
 
 As a mentor, I have guided thousands of awesome people to reach their goals in learning private AI and open source. My passion for mentoring led me to work in leadership roles such as mentorship team lead and technical mentorship program lead, where I managed and worked with fantastic team members. I have had a great season managing [Google Summer of Code](https://summerofcode.withgoogle.com/archive/2021/organizations/5769029704220672) and [Google Season of Docs](https://developers.google.com/season-of-docs/docs/2022/participants).
 

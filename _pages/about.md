@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi there! My name is Sourav. Welcome to my website. 
+Hi there! My name is Sourav. Welcome to my website.
 
 I work on open source sustainability and program management and lead the [OpenPrivacyTech Initiative](https://github.com/openprivacytech), where I work on democratizing privacy-enhancing technologies. I'm also a maintainer at [TODO Group](https://todogroup.org/) and I maintain the [OSPOLOGY](https://github.com/todogroup/ospology) project. Previously, I worked at a deep tech company and led their open source programs and communities.
 
@@ -27,4 +27,4 @@ As a mentor, I have guided thousands of awesome people to reach their goals in l
 
 I led the Private AI mentorship program at [OpenMined](https://openmined.org/), that launched the [Private AI Series](https://courses.openmined.org/) in collaboration with PyTorch, Facebook AI, the University of Oxford’s Centre for the Governance of AI at the Future of Humanity Institute, and the United Nations Global Working Group on Big Data.
 
-Apart from work, I enjoy reading books, listening to music and sometimes watching movies. Recently I started traveling as a backpacker, and I found it an exciting way to explore new places and meet interesting people.
+Apart from work, I enjoy reading books, listening to music and sometimes watching movies. Recently I started traveling as a backpacker, and I found it an exciting way to explore new places, learning about culture and meeting interesting people.

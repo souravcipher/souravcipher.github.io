@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi there! My name is Sourav. Welcome to my website.
+Hi there! My name is Sourav. Welcome.
 
 I work on open source sustainability and program management and lead the [OpenPrivacyTech Initiative](https://github.com/openprivacytech), where I work on democratizing privacy-enhancing technologies. I'm also a maintainer at [TODO Group](https://todogroup.org/) and I maintain the [OSPOLOGY](https://github.com/todogroup/ospology) project. Previously, I worked at a deep tech company and led their open source programs and communities.
 

@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: sourav.jpg
+  image: sourav_new.png
   image_circular: false # crops the image to make it circular
 #  address: >
 #    <p>555 your office number</p>
@@ -20,12 +20,10 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-#### Operations Coordinator at Open Source Collective
+##### Operations Coordinator at Open Source Collective
 
 
 
-I work at [Open Source Collective](https://www.oscollective.org), a non-profit umbrella organization providing financial and legal infrastructure for thousands of open source projects.
+I work at [Open Source Collective](https://www.oscollective.org), a non-profit umbrella organization providing financial and legal infrastructure for thousands of open source projects. I am interested in various topics related Open/Inner Source, Data/AI and Privacy/Security. 
 
-I am interested in various topics related Open/Inner Source, Data/AI and Privacy/Security. 
-
-This is page is still being updated with my recent work and learnings. GOAL FOR 2024 :P
+Page is still being updated with my recent work and learnings. 

@@ -26,4 +26,5 @@ social: false  # includes social icons at the bottom of the page
 
 I work at [Open Source Collective](https://www.oscollective.org), a non-profit umbrella organization providing financial and legal infrastructure for thousands of open source projects. I am interested in various topics related Open/Inner Source, Data/AI and Privacy/Security. 
 
-Page is still being updated with my recent work and learnings. 
+// This page is being updated!!
+

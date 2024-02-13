@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-I'm a seasoned open source program manager, maintainer, and backpacker. I work at [Open Source Collective](https://www.oscollective.org), a non-profit umbrella organization providing financial and legal infrastructure for thousands of open source projects. 
+I'm a seasoned open source program manager, maintainer, and a backpacker. I work at [Open Source Collective](https://www.oscollective.org) these days. 
 
 // This page is being updated!!
 

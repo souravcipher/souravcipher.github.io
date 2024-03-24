@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-// *This page is being updated!!*
+// *This page will be moved to a blog!!*
 
 #### AI
 

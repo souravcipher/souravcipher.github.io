@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: souravcipher.github.io/sitemap.xml
+Sitemap: souravcipher.com/sitemap.xml

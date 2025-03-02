@@ -2,11 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: Full time ~operations, part-time ~coder. 
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sourav.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -27,8 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Sourav and I work on open source sustainability and operations management. Currently working full time at Open Source Collective a nonprofit based in CA, USA. I’m passionate about Open Source, Program Management, Data Science, and privacy-enhancing technologies. I’m also an advocate for open source and open science movements and actively contributing for the larger open source benefits. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously I led open source programs, communities and managed mentorship programs like google summer of code and google season of docs. I have also mentored at google code-in for the TensorFlow organization and mentored thousands of enthusiasts to start their open source and private AI journey.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I led the Private AI mentorship program at OpenMined that launched the Private AI Series in collaboration with PyTorch, Facebook AI, the University of Oxford’s Centre for the Governance of AI at the Future of Humanity Institute, and the United Nations Global Working Group on Big Data.

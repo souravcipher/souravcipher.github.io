@@ -7,7 +7,7 @@ first_name: Sourav
 middle_name:
 last_name: Das
 contact_note: >
-  The best way to contact me is via [email](souravcipher@gmail.com)
+  The best way to contact me via email at souravcipher [at] gmail [dot] com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >

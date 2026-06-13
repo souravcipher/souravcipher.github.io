@@ -221,6 +221,8 @@ exclude:
   - _pages/teaching.md
   - _pages/teaching.md
   - _pages/profiles.md
+  - _pages/dropdown.md
+
   - al-folio-upgrade-report.md
   - bin/
   - CONTRIBUTING.md

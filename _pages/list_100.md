@@ -50,3 +50,4 @@ This list is inspired from [Chip Huyen](https://huyenchip.com/list-100/). Let me
 40. Fly an airplane [✗]
 41. Watch a football match at Santiago Bernabéu Stadium [✓]
 42. Get a PhD (in CS, Neuroscience, or Psychology) [✗]
+43. To be added..

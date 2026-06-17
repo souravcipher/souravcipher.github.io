@@ -56,11 +56,7 @@
 .highlight .kn {
   color: #000000;
   font-weight: bold;
-} /* Keyword.Namespace */ /* Keyword.Pseudo */ /* Keyword.Reserved */
-.highlight .kt {
-  color: #445588;
-  font-weight: bold;
-} /* Keyword.Type */
+} /* Keyword.Namespace */ /* Keyword.Pseudo */ /* Keyword.Reserved */ /* Keyword.Type */
 .highlight .m {
   color: #009999;
 } /* Literal.Number */

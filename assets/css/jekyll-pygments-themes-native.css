@@ -71,11 +71,7 @@
 .highlight .kn {
   color: #6ab825;
   font-weight: bold;
-} /* Keyword.Namespace */ /* Keyword.Pseudo */ /* Keyword.Reserved */
-.highlight .kt {
-  color: #6ab825;
-  font-weight: bold;
-} /* Keyword.Type */ /* Literal.Date */
+} /* Keyword.Namespace */ /* Keyword.Pseudo */ /* Keyword.Reserved */ /* Keyword.Type */ /* Literal.Date */
 .highlight .m {
   color: #3677a9;
 } /* Literal.Number */
